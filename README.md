@@ -13,7 +13,7 @@ for gpsnavi https://github.com/mnltake/gpsnavi
 
 -pull out keypad(GPIO9/11/5/6/13/19/26)
 
--pull out  led(GPIO21/20/16/12/7/y/8/25/27/22/24/23)
+-pull out  led(GPIO21/20/16/12/7/8/25/27/22/24/23)
 
 -pull out neopixel grove connector (GPIO18)
 
