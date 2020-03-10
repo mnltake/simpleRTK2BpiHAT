@@ -9,7 +9,7 @@ for gpsnavi https://github.com/mnltake/gpsnavi
 
 -pull out I2C(GPIO2/3)
 
--pull out shutdownswich (GPIO3/4/17)
+-pull out shutdownswitch (GPIO3/4/17)
 
 -pull out keypad(GPIO9/11/5/6/13/19/26)
 
@@ -17,7 +17,7 @@ for gpsnavi https://github.com/mnltake/gpsnavi
 
 -pull out neopixel grove connector (GPIO18)
 
--pull out workswich (GPIO10) and +12V relay 
+-pull out workswitch (GPIO10) and +12V relay 
 
 ![alt](https://github.com/mnltake/simpleRTK2BpiHAT/blob/master/simpleRTK2BpiHAT.png)
 
